@@ -1,8 +1,8 @@
 #!/bin/bash
 
-organization="user-group" #Organization Name as showed in DevOps URL
-project="API%20Share" #Organization Name as showed in DevOps URL
-path="/home/tibco/Workspace/APIShare/Backup" #Your local path where the Backup will be stored
+organization="myOrg" #Organization Name as showed in DevOps URL
+project="My%20New%20Fantastic%20Project" #Organization Name as showed in DevOps URL
+path="/home/DanieleDifra/Backup" #Your local path where the Backup will be stored
 patBase64="" #A base64 converted PAT
 
 
